@@ -8,12 +8,12 @@
     font-size: 30px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    padding:30px;
+    padding:50px;
     max-width: 600px;
     margin: 0cm;
     }
   
-  .box1 { background:#ffc400; margin: 0cm;}
+  .box1 { background:#9ca3a7; margin: 0cm;}
   .box2 { background:#5b86b6; align-content:center; margin: 0cm;}
   .box3 {text-align: center; margin: 0cm;font-size: 30px; font-family: 'Roboto', sans-serif; color:rgb(0, 0, 0);}
   

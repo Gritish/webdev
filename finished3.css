@@ -13,7 +13,7 @@
     margin: 0cm;
     }
   
-  .box1 { background:#ffc400; margin: 0cm;}
+  .box1 { background:#9ca3a7; margin: 0cm;}
   .box2 { background:#5b86b6; align-content:center; margin: 0cm;}
     
 .container {
@@ -50,4 +50,26 @@
   justify-content: space-around;
   align-items: center;
   flex-direction: row;
+  }
+
+  .cont2 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0cm;
+}
+
+  .sboxf {
+    padding:30px;
+    max-width:200px;
+    margin: 0cm;
+
+  }
+
+  .sbox1 {
+    background:#9ca3a7; margin: 0cm;
+  }
+
+  .sbox2 {
+    background:#5b86b6; margin: 0cm;
   }
